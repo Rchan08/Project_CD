@@ -1,8 +1,6 @@
 # Project_CD
 Project Cleaning Data
 
-1. Describing run_analysis.R script
-
 First, the script starts getting data necessary for the project by using download.file() function and naming it 'Base.zip'.
 
 Then, code reads the files 'activity_labels.txt' and 'features.txt' and assigns variables to the information contained in this files.
